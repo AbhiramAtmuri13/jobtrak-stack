@@ -1,0 +1,42 @@
+[2025-07-18T11:49:18.966-0500] {processor.py:161} INFO - Started process (PID=840) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:49:18.967-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-07-18T11:49:18.968-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.968-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:49:18.973-0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:49:18.985-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.984-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:19.000-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:19.000-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-07-18 16:46:00+00:00, run_after=2025-07-18 16:48:00+00:00
+[2025-07-18T11:49:19.015-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2025-07-18T11:49:50.615-0500] {processor.py:161} INFO - Started process (PID=967) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:49:50.615-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-07-18T11:49:50.616-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.616-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:49:50.621-0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:49:50.683-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.683-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:50.697-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.697-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-07-18 16:46:00+00:00, run_after=2025-07-18 16:48:00+00:00
+[2025-07-18T11:49:50.711-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-07-18T11:50:21.153-0500] {processor.py:161} INFO - Started process (PID=1089) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:50:21.155-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-07-18T11:50:21.156-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.156-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:50:21.161-0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:50:21.180-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.180-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:21.196-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.196-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-07-18 16:48:00+00:00, run_after=2025-07-18 16:50:00+00:00
+[2025-07-18T11:50:21.212-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2025-07-18T11:50:51.270-0500] {processor.py:161} INFO - Started process (PID=1199) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:50:51.270-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-07-18T11:50:51.271-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.271-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:50:51.278-0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:50:51.297-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.297-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:51.312-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.312-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-07-18 16:48:00+00:00, run_after=2025-07-18 16:50:00+00:00
+[2025-07-18T11:50:51.326-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2025-07-18T11:51:21.454-0500] {processor.py:161} INFO - Started process (PID=1307) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:51:21.456-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-07-18T11:51:21.457-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.457-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:51:21.462-0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:51:21.480-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.480-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:21.495-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.495-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-07-18 16:48:00+00:00, run_after=2025-07-18 16:50:00+00:00
+[2025-07-18T11:51:21.508-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2025-07-18T11:51:51.820-0500] {processor.py:161} INFO - Started process (PID=1412) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:51:51.820-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-07-18T11:51:51.821-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.821-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:51:51.826-0500] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-07-18T11:51:51.841-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.841-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:51.856-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.856-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-07-18 16:48:00+00:00, run_after=2025-07-18 16:50:00+00:00
+[2025-07-18T11:51:51.869-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds

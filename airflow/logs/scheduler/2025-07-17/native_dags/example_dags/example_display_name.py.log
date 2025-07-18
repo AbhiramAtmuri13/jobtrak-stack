@@ -1,0 +1,42 @@
+[2025-07-17T12:45:03.558-0500] {processor.py:161} INFO - Started process (PID=13477) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:45:03.558-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-07-17T12:45:03.559-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:03.559-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:45:03.563-0500] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:45:03.640-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:03.640-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:03.649-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:03.649-0500] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-07-17T12:45:03.708-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.154 seconds
+[2025-07-17T12:45:34.652-0500] {processor.py:161} INFO - Started process (PID=13605) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:45:34.656-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-07-17T12:45:34.659-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:34.658-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:45:34.677-0500] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:45:34.730-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:34.730-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:34.774-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:34.774-0500] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-07-17T12:45:34.829-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.186 seconds
+[2025-07-17T12:46:05.774-0500] {processor.py:161} INFO - Started process (PID=13722) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:46:05.775-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-07-17T12:46:05.776-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:05.776-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:46:05.782-0500] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:46:05.804-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:05.803-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:05.814-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:05.814-0500] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-07-17T12:46:05.832-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.063 seconds
+[2025-07-17T12:46:36.654-0500] {processor.py:161} INFO - Started process (PID=13838) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:46:36.655-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-07-17T12:46:36.658-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:36.657-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:46:36.665-0500] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:46:36.704-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:36.704-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:36.725-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:36.725-0500] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-07-17T12:46:36.761-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.118 seconds
+[2025-07-17T12:47:07.756-0500] {processor.py:161} INFO - Started process (PID=13953) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:47:07.777-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-07-17T12:47:07.779-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:07.779-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:47:07.785-0500] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:47:07.841-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:07.841-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:07.868-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:07.868-0500] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-07-17T12:47:07.955-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.206 seconds
+[2025-07-17T12:47:38.075-0500] {processor.py:161} INFO - Started process (PID=14057) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:47:38.075-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-07-17T12:47:38.077-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:38.077-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:47:38.083-0500] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-07-17T12:47:38.116-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:38.116-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:38.132-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:38.132-0500] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-07-17T12:47:38.163-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.095 seconds

@@ -1,0 +1,72 @@
+[2025-07-18T11:49:18.301-0500] {processor.py:161} INFO - Started process (PID=811) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:49:18.301-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-07-18T11:49:18.302-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.302-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:49:18.323-0500] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:49:18.326-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.325-0500] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-07-18T11:49:18.340-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.340-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-07-18T11:49:18.342-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.342-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:49:18.343-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.343-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:49:18.348-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.348-0500] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-07-18T11:49:18.351-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.351-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:49:18.351-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.351-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:49:18.359-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2025-07-18T11:49:49.669-0500] {processor.py:161} INFO - Started process (PID=937) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:49:49.670-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-07-18T11:49:49.671-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.671-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:49:49.693-0500] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:49:49.754-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.754-0500] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-07-18T11:49:49.767-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.767-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-07-18T11:49:49.770-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.769-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:49:49.771-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.770-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:49:49.778-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.778-0500] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-07-18T11:49:49.781-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.781-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:49:49.782-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.782-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:49:49.790-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.125 seconds
+[2025-07-18T11:50:20.495-0500] {processor.py:161} INFO - Started process (PID=1060) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:50:20.497-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-07-18T11:50:20.498-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.497-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:50:20.518-0500] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:50:20.529-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.529-0500] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-07-18T11:50:20.545-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.544-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-07-18T11:50:20.547-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.547-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:50:20.548-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.548-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:50:20.553-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.553-0500] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-07-18T11:50:20.556-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.556-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:50:20.556-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.556-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:50:20.566-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.075 seconds
+[2025-07-18T11:50:50.702-0500] {processor.py:161} INFO - Started process (PID=1171) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:50:50.702-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-07-18T11:50:50.703-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.703-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:50:50.723-0500] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:50:50.734-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.733-0500] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-07-18T11:50:50.748-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.748-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-07-18T11:50:50.751-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.751-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:50:50.751-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.751-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:50:50.757-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.757-0500] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-07-18T11:50:50.762-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.762-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:50:50.763-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.763-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:50:50.771-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.073 seconds
+[2025-07-18T11:51:20.829-0500] {processor.py:161} INFO - Started process (PID=1279) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:51:20.831-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-07-18T11:51:20.832-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.831-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:51:20.852-0500] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:51:20.865-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.865-0500] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-07-18T11:51:20.880-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.880-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-07-18T11:51:20.882-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.882-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:51:20.883-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.883-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:51:20.889-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.889-0500] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-07-18T11:51:20.901-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.901-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:51:20.902-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.902-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:51:20.912-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.087 seconds
+[2025-07-18T11:51:51.168-0500] {processor.py:161} INFO - Started process (PID=1382) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:51:51.169-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-07-18T11:51:51.170-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.170-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:51:51.194-0500] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-07-18T11:51:51.206-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.206-0500] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-07-18T11:51:51.222-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.222-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-07-18T11:51:51.225-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.225-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:51:51.226-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.225-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:51:51.232-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.232-0500] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-07-18T11:51:51.236-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.236-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-07-18T11:51:51.236-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.236-0500] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-07-18T11:51:51.245-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.081 seconds

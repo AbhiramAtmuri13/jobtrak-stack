@@ -1,0 +1,42 @@
+[2025-07-17T12:45:01.079-0500] {processor.py:161} INFO - Started process (PID=13426) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:45:01.080-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-07-17T12:45:01.081-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:01.081-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:45:01.094-0500] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:45:01.184-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:01.184-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:01.197-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:01.197-0500] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:45:01.230-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.155 seconds
+[2025-07-17T12:45:32.081-0500] {processor.py:161} INFO - Started process (PID=13557) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:45:32.083-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-07-17T12:45:32.085-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:32.085-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:45:32.112-0500] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:45:32.167-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:32.167-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:32.205-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:32.204-0500] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:45:32.238-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.167 seconds
+[2025-07-17T12:46:02.906-0500] {processor.py:161} INFO - Started process (PID=13674) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:46:02.912-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-07-17T12:46:02.914-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:02.913-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:46:02.950-0500] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:46:03.114-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:03.113-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:03.155-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:03.155-0500] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:46:03.235-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.343 seconds
+[2025-07-17T12:46:34.098-0500] {processor.py:161} INFO - Started process (PID=13790) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:46:34.099-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-07-17T12:46:34.100-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.100-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:46:34.112-0500] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:46:34.165-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.165-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:34.198-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.198-0500] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:46:34.239-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.149 seconds
+[2025-07-17T12:47:05.148-0500] {processor.py:161} INFO - Started process (PID=13905) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:47:05.169-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-07-17T12:47:05.172-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:05.171-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:47:05.221-0500] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:47:05.327-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:05.326-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:05.383-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:05.383-0500] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:47:05.435-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.293 seconds
+[2025-07-17T12:47:35.900-0500] {processor.py:161} INFO - Started process (PID=14010) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:47:35.901-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-07-17T12:47:35.914-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:35.914-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:47:35.935-0500] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-07-17T12:47:35.977-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:35.976-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:36.002-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.002-0500] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:47:36.040-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.150 seconds

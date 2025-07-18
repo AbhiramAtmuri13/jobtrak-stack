@@ -1,0 +1,42 @@
+[2025-07-18T11:49:18.435-0500] {processor.py:161} INFO - Started process (PID=817) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:49:18.436-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-07-18T11:49:18.437-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.437-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:49:18.441-0500] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:49:18.453-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.453-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:18.467-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.467-0500] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:49:18.479-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.048 seconds
+[2025-07-18T11:49:49.835-0500] {processor.py:161} INFO - Started process (PID=943) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:49:49.836-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-07-18T11:49:49.837-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.837-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:49:49.842-0500] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:49:49.912-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.912-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:49.924-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.924-0500] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:49:49.940-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.108 seconds
+[2025-07-18T11:50:20.596-0500] {processor.py:161} INFO - Started process (PID=1065) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:50:20.597-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-07-18T11:50:20.598-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.598-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:50:20.603-0500] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:50:20.621-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.621-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:20.635-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.635-0500] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:50:20.650-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.066 seconds
+[2025-07-18T11:50:50.787-0500] {processor.py:161} INFO - Started process (PID=1175) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:50:50.788-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-07-18T11:50:50.789-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.789-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:50:50.793-0500] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:50:50.815-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.815-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:50.830-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.830-0500] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:50:50.845-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2025-07-18T11:51:20.926-0500] {processor.py:161} INFO - Started process (PID=1283) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:51:20.927-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-07-18T11:51:20.928-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.928-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:51:20.933-0500] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:51:20.951-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.951-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:20.973-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.972-0500] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:51:20.993-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.071 seconds
+[2025-07-18T11:51:51.261-0500] {processor.py:161} INFO - Started process (PID=1388) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:51:51.262-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-07-18T11:51:51.264-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.263-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:51:51.269-0500] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-07-18T11:51:51.290-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.290-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:51.304-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.303-0500] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:51:51.322-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.067 seconds

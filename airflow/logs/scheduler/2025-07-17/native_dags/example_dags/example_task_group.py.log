@@ -1,0 +1,42 @@
+[2025-07-17T12:45:03.369-0500] {processor.py:161} INFO - Started process (PID=13472) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:45:03.370-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-07-17T12:45:03.371-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:03.371-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:45:03.375-0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:45:03.459-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:03.459-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:03.473-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:03.473-0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:45:03.494-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.129 seconds
+[2025-07-17T12:45:34.157-0500] {processor.py:161} INFO - Started process (PID=13599) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:45:34.159-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-07-17T12:45:34.161-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:34.160-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:45:34.169-0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:45:34.209-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:34.209-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:34.236-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:34.236-0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:45:34.271-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.126 seconds
+[2025-07-17T12:46:05.630-0500] {processor.py:161} INFO - Started process (PID=13717) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:46:05.631-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-07-17T12:46:05.632-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:05.632-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:46:05.637-0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:46:05.662-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:05.662-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:05.685-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:05.684-0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:46:05.711-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.088 seconds
+[2025-07-17T12:46:36.446-0500] {processor.py:161} INFO - Started process (PID=13833) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:46:36.447-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-07-17T12:46:36.450-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:36.449-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:46:36.458-0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:46:36.497-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:36.497-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:36.525-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:36.525-0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:46:36.559-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.120 seconds
+[2025-07-17T12:47:06.595-0500] {processor.py:161} INFO - Started process (PID=13947) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:47:06.597-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-07-17T12:47:06.598-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.598-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:47:06.604-0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:47:06.628-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.628-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:06.645-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.645-0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:47:06.662-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-07-17T12:47:37.829-0500] {processor.py:161} INFO - Started process (PID=14052) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:47:37.830-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-07-17T12:47:37.832-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:37.832-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:47:37.841-0500] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-07-17T12:47:37.876-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:37.875-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:37.901-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:37.901-0500] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:47:37.929-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.115 seconds

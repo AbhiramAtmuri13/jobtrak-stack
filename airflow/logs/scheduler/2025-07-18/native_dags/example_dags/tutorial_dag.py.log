@@ -1,0 +1,42 @@
+[2025-07-18T11:49:19.258-0500] {processor.py:161} INFO - Started process (PID=858) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:49:19.258-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-18T11:49:19.259-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:19.259-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:49:19.262-0500] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:49:19.274-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:19.274-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:19.282-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:19.282-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-18T11:49:19.297-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2025-07-18T11:49:51.178-0500] {processor.py:161} INFO - Started process (PID=984) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:49:51.179-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-18T11:49:51.180-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.179-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:49:51.183-0500] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:49:51.247-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.247-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:51.253-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.253-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-18T11:49:51.270-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.095 seconds
+[2025-07-18T11:50:21.494-0500] {processor.py:161} INFO - Started process (PID=1108) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:50:21.495-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-18T11:50:21.496-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.496-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:50:21.500-0500] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:50:21.518-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.518-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:21.527-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.527-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-18T11:50:21.542-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2025-07-18T11:50:51.640-0500] {processor.py:161} INFO - Started process (PID=1217) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:50:51.643-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-18T11:50:51.645-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.644-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:50:51.648-0500] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:50:51.667-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.667-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:51.675-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.675-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-18T11:50:51.690-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2025-07-18T11:51:21.783-0500] {processor.py:161} INFO - Started process (PID=1324) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:51:21.784-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-18T11:51:21.785-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.785-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:51:21.789-0500] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:51:21.804-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.804-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:21.813-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.813-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-18T11:51:21.826-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2025-07-18T11:51:52.164-0500] {processor.py:161} INFO - Started process (PID=1430) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:51:52.164-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-18T11:51:52.165-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.165-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:51:52.169-0500] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-18T11:51:52.185-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.185-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:52.196-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.196-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-18T11:51:52.211-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds

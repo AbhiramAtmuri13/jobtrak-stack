@@ -1,0 +1,42 @@
+[2025-07-17T12:45:02.359-0500] {processor.py:161} INFO - Started process (PID=13454) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:45:02.360-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-07-17T12:45:02.361-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:02.360-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:45:02.368-0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:45:02.456-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:02.455-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:02.463-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:02.462-0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-07-17T12:45:02.482-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.127 seconds
+[2025-07-17T12:45:33.138-0500] {processor.py:161} INFO - Started process (PID=13581) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:45:33.141-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-07-17T12:45:33.144-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:33.144-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:45:33.163-0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:45:33.221-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:33.221-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:33.241-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:33.240-0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-07-17T12:45:33.274-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.144 seconds
+[2025-07-17T12:46:04.227-0500] {processor.py:161} INFO - Started process (PID=13698) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:46:04.229-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-07-17T12:46:04.231-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:04.231-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:46:04.244-0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:46:04.343-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:04.343-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:04.367-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:04.367-0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-07-17T12:46:04.421-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.204 seconds
+[2025-07-17T12:46:35.088-0500] {processor.py:161} INFO - Started process (PID=13815) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:46:35.095-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-07-17T12:46:35.097-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:35.097-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:46:35.127-0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:46:35.199-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:35.198-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:35.226-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:35.225-0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-07-17T12:46:35.258-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.179 seconds
+[2025-07-17T12:47:06.120-0500] {processor.py:161} INFO - Started process (PID=13930) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:47:06.121-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-07-17T12:47:06.122-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.122-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:47:06.134-0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:47:06.179-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.179-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:06.189-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.189-0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-07-17T12:47:06.209-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.094 seconds
+[2025-07-17T12:47:36.807-0500] {processor.py:161} INFO - Started process (PID=14034) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:47:36.808-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-07-17T12:47:36.810-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.810-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:47:36.830-0500] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-07-17T12:47:36.906-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.906-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:36.926-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.926-0500] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-07-17T12:47:36.957-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.157 seconds

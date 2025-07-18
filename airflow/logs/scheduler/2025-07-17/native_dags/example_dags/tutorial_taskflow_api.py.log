@@ -1,0 +1,42 @@
+[2025-07-17T12:45:01.538-0500] {processor.py:161} INFO - Started process (PID=13435) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:45:01.538-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-07-17T12:45:01.541-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:01.540-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:45:01.548-0500] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:45:01.644-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:01.644-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:01.654-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:01.654-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-07-17T12:45:01.679-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.145 seconds
+[2025-07-17T12:45:32.491-0500] {processor.py:161} INFO - Started process (PID=13566) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:45:32.493-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-07-17T12:45:32.495-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:32.495-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:45:32.503-0500] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:45:32.539-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:32.539-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:32.558-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:32.557-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-07-17T12:45:32.584-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.099 seconds
+[2025-07-17T12:46:03.542-0500] {processor.py:161} INFO - Started process (PID=13683) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:46:03.544-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-07-17T12:46:03.546-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:03.546-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:46:03.557-0500] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:46:03.599-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:03.598-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:03.614-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:03.613-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-07-17T12:46:03.658-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.130 seconds
+[2025-07-17T12:46:34.536-0500] {processor.py:161} INFO - Started process (PID=13799) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:46:34.536-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-07-17T12:46:34.538-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.538-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:46:34.544-0500] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:46:34.575-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.575-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:34.590-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.590-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-07-17T12:46:34.615-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.089 seconds
+[2025-07-17T12:47:05.700-0500] {processor.py:161} INFO - Started process (PID=13914) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:47:05.702-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-07-17T12:47:05.703-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:05.703-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:47:05.709-0500] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:47:05.735-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:05.735-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:05.746-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:05.746-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-07-17T12:47:05.767-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.073 seconds
+[2025-07-17T12:47:36.307-0500] {processor.py:161} INFO - Started process (PID=14019) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:47:36.308-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-07-17T12:47:36.309-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.309-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:47:36.316-0500] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-07-17T12:47:36.350-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.349-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:36.365-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.364-0500] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-07-17T12:47:36.393-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.092 seconds

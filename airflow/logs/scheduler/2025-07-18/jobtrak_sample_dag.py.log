@@ -1,0 +1,42 @@
+[2025-07-18T11:49:17.875-0500] {processor.py:161} INFO - Started process (PID=788) to work on /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:49:17.876-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py for tasks to queue
+[2025-07-18T11:49:17.877-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:17.877-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:49:17.886-0500] {processor.py:840} INFO - DAG(s) 'jobtrak_sample_dag' retrieved from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:49:17.913-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:17.913-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:17.931-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:17.931-0500] {dag.py:3954} INFO - Setting next_dagrun for jobtrak_sample_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T11:49:17.947-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py took 0.075 seconds
+[2025-07-18T11:49:48.821-0500] {processor.py:161} INFO - Started process (PID=913) to work on /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:49:48.827-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py for tasks to queue
+[2025-07-18T11:49:48.836-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:48.833-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:49:48.850-0500] {processor.py:840} INFO - DAG(s) 'jobtrak_sample_dag' retrieved from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:49:48.988-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:48.988-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:49.013-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:49.013-0500] {dag.py:3954} INFO - Setting next_dagrun for jobtrak_sample_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T11:49:49.035-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py took 0.241 seconds
+[2025-07-18T11:50:20.019-0500] {processor.py:161} INFO - Started process (PID=1038) to work on /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:50:20.022-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py for tasks to queue
+[2025-07-18T11:50:20.025-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.024-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:50:20.033-0500] {processor.py:840} INFO - DAG(s) 'jobtrak_sample_dag' retrieved from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:50:20.071-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.070-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:20.103-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.102-0500] {dag.py:3954} INFO - Setting next_dagrun for jobtrak_sample_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T11:50:20.127-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py took 0.117 seconds
+[2025-07-18T11:50:50.171-0500] {processor.py:161} INFO - Started process (PID=1147) to work on /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:50:50.173-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py for tasks to queue
+[2025-07-18T11:50:50.177-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.176-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:50:50.181-0500] {processor.py:840} INFO - DAG(s) 'jobtrak_sample_dag' retrieved from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:50:50.204-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.204-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:50.226-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.225-0500] {dag.py:3954} INFO - Setting next_dagrun for jobtrak_sample_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T11:50:50.247-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py took 0.082 seconds
+[2025-07-18T11:51:20.269-0500] {processor.py:161} INFO - Started process (PID=1255) to work on /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:51:20.271-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py for tasks to queue
+[2025-07-18T11:51:20.272-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.272-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:51:20.280-0500] {processor.py:840} INFO - DAG(s) 'jobtrak_sample_dag' retrieved from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:51:20.304-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.303-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:20.328-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:20.328-0500] {dag.py:3954} INFO - Setting next_dagrun for jobtrak_sample_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T11:51:20.351-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py took 0.085 seconds
+[2025-07-18T11:51:50.379-0500] {processor.py:161} INFO - Started process (PID=1360) to work on /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:51:50.380-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py for tasks to queue
+[2025-07-18T11:51:50.381-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:50.381-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:51:50.389-0500] {processor.py:840} INFO - DAG(s) 'jobtrak_sample_dag' retrieved from /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py
+[2025-07-18T11:51:50.418-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:50.417-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:50.448-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:50.447-0500] {dag.py:3954} INFO - Setting next_dagrun for jobtrak_sample_dag to 2025-07-18 00:00:00+00:00, run_after=2025-07-19 00:00:00+00:00
+[2025-07-18T11:51:50.477-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/airflow/dags/jobtrak_sample_dag.py took 0.104 seconds

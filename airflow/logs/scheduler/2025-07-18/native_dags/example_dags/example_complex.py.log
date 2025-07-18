@@ -1,0 +1,42 @@
+[2025-07-18T11:49:18.614-0500] {processor.py:161} INFO - Started process (PID=826) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:49:18.614-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-07-18T11:49:18.616-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.615-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:49:18.621-0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:49:18.632-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.632-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:18.641-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.640-0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-07-18T11:49:18.654-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2025-07-18T11:49:50.140-0500] {processor.py:161} INFO - Started process (PID=953) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:49:50.140-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-07-18T11:49:50.141-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.141-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:49:50.154-0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:49:50.233-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.233-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:50.239-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.239-0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-07-18T11:49:50.255-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.119 seconds
+[2025-07-18T11:50:20.813-0500] {processor.py:161} INFO - Started process (PID=1075) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:50:20.814-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-07-18T11:50:20.815-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.815-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:50:20.823-0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:50:20.846-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.846-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:20.855-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:20.855-0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-07-18T11:50:20.869-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2025-07-18T11:50:50.970-0500] {processor.py:161} INFO - Started process (PID=1184) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:50:50.971-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-07-18T11:50:50.972-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:50.972-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:50:50.982-0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:50:51.003-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.003-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:51.011-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.011-0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-07-18T11:50:51.026-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2025-07-18T11:51:21.127-0500] {processor.py:161} INFO - Started process (PID=1292) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:51:21.129-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-07-18T11:51:21.130-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.129-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:51:21.136-0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:51:21.159-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.159-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:21.168-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.168-0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-07-18T11:51:21.184-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2025-07-18T11:51:51.506-0500] {processor.py:161} INFO - Started process (PID=1397) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:51:51.507-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-07-18T11:51:51.508-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.508-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:51:51.515-0500] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-07-18T11:51:51.540-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.539-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:51.549-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.549-0500] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-07-18T11:51:51.566-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds

@@ -1,0 +1,42 @@
+[2025-07-18T11:49:18.833-0500] {processor.py:161} INFO - Started process (PID=835) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:49:18.834-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-07-18T11:49:18.835-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.835-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:49:18.839-0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:49:18.852-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.852-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:18.868-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:18.868-0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:49:18.882-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.053 seconds
+[2025-07-18T11:49:50.498-0500] {processor.py:161} INFO - Started process (PID=961) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:49:50.498-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-07-18T11:49:50.499-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.499-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:49:50.505-0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:49:50.572-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.572-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:50.585-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:50.585-0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:49:50.602-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-07-18T11:50:21.020-0500] {processor.py:161} INFO - Started process (PID=1083) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:50:21.021-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-07-18T11:50:21.022-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.022-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:50:21.027-0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:50:21.047-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.046-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:21.061-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.061-0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:50:21.075-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2025-07-18T11:50:51.144-0500] {processor.py:161} INFO - Started process (PID=1193) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:50:51.144-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-07-18T11:50:51.145-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.145-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:50:51.150-0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:50:51.170-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.169-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:51.186-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:51.186-0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:50:51.205-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.066 seconds
+[2025-07-18T11:51:21.356-0500] {processor.py:161} INFO - Started process (PID=1301) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:51:21.358-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-07-18T11:51:21.359-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.359-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:51:21.363-0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:51:21.382-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.382-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:21.398-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:21.398-0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:51:21.412-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.060 seconds
+[2025-07-18T11:51:51.698-0500] {processor.py:161} INFO - Started process (PID=1406) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:51:51.698-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-07-18T11:51:51.699-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.699-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:51:51.704-0500] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-07-18T11:51:51.722-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.722-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:51.738-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:51.738-0500] {dag.py:3954} INFO - Setting next_dagrun for example_branch_labels to 2025-07-17 00:00:00+00:00, run_after=2025-07-18 00:00:00+00:00
+[2025-07-18T11:51:51.752-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds

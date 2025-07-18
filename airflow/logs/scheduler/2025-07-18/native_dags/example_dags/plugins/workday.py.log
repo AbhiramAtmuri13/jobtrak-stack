@@ -1,0 +1,36 @@
+[2025-07-18T11:49:20.575-0500] {processor.py:161} INFO - Started process (PID=888) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:49:20.576-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-07-18T11:49:20.577-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:20.577-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:49:20.578-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:20.578-0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2025-07-18T11:49:20.578-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:49:20.594-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2025-07-18T11:49:51.939-0500] {processor.py:161} INFO - Started process (PID=1015) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:49:51.939-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-07-18T11:49:51.940-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.940-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:49:51.942-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.942-0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2025-07-18T11:49:51.942-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:49:51.958-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2025-07-18T11:50:22.109-0500] {processor.py:161} INFO - Started process (PID=1142) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:50:22.110-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-07-18T11:50:22.111-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:22.111-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:50:22.113-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:22.113-0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2025-07-18T11:50:22.113-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:50:22.126-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2025-07-18T11:50:52.215-0500] {processor.py:161} INFO - Started process (PID=1246) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:50:52.216-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-07-18T11:50:52.217-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:52.216-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:50:52.218-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:52.218-0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2025-07-18T11:50:52.219-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:50:52.234-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2025-07-18T11:51:22.281-0500] {processor.py:161} INFO - Started process (PID=1355) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:51:22.282-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-07-18T11:51:22.283-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:22.283-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:51:22.284-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:22.284-0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2025-07-18T11:51:22.285-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:51:22.297-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2025-07-18T11:51:52.615-0500] {processor.py:161} INFO - Started process (PID=1459) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:51:52.615-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-07-18T11:51:52.616-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.616-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:51:52.618-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.618-0500] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2025-07-18T11:51:52.618-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2025-07-18T11:51:52.630-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds

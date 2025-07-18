@@ -1,0 +1,42 @@
+[2025-07-18T11:49:19.563-0500] {processor.py:161} INFO - Started process (PID=879) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:49:19.563-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-07-18T11:49:19.564-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:19.564-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:49:19.569-0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:49:19.584-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:19.584-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:19.594-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:19.594-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-07-18T11:49:19.611-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2025-07-18T11:49:51.747-0500] {processor.py:161} INFO - Started process (PID=1005) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:49:51.747-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-07-18T11:49:51.748-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.748-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:49:51.753-0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:49:51.824-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.823-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:49:51.831-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.830-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-07-18T11:49:51.846-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.103 seconds
+[2025-07-18T11:50:21.987-0500] {processor.py:161} INFO - Started process (PID=1132) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:50:21.989-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-07-18T11:50:21.991-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:21.990-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:50:21.996-0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:50:22.015-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:22.015-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:22.025-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:22.025-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-07-18T11:50:22.043-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.060 seconds
+[2025-07-18T11:50:52.064-0500] {processor.py:161} INFO - Started process (PID=1236) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:50:52.065-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-07-18T11:50:52.066-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:52.065-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:50:52.073-0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:50:52.095-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:52.095-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:50:52.105-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:52.104-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-07-18T11:50:52.125-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-07-18T11:51:22.166-0500] {processor.py:161} INFO - Started process (PID=1345) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:51:22.167-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-07-18T11:51:22.168-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:22.167-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:51:22.173-0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:51:22.191-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:22.191-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:22.199-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:22.199-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-07-18T11:51:22.213-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.051 seconds
+[2025-07-18T11:51:52.494-0500] {processor.py:161} INFO - Started process (PID=1450) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:51:52.494-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-07-18T11:51:52.495-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.495-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:51:52.501-0500] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-07-18T11:51:52.521-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.521-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T11:51:52.529-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.529-0500] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-07-18T11:51:52.544-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds

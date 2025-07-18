@@ -1,0 +1,42 @@
+[2025-07-17T12:45:02.224-0500] {processor.py:161} INFO - Started process (PID=13452) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:45:02.225-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-07-17T12:45:02.226-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:02.226-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:45:02.231-0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:45:02.316-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:02.316-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:02.330-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:02.330-0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:45:02.349-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.129 seconds
+[2025-07-17T12:45:33.124-0500] {processor.py:161} INFO - Started process (PID=13580) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:45:33.127-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-07-17T12:45:33.129-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:33.128-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:45:33.138-0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:45:33.175-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:33.175-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:45:33.200-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:45:33.199-0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:45:33.224-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2025-07-17T12:46:04.218-0500] {processor.py:161} INFO - Started process (PID=13697) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:46:04.221-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-07-17T12:46:04.223-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:04.222-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:46:04.238-0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:46:04.276-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:04.275-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:04.328-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:04.328-0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:46:04.380-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.174 seconds
+[2025-07-17T12:46:34.949-0500] {processor.py:161} INFO - Started process (PID=13812) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:46:34.949-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-07-17T12:46:34.951-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.950-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:46:34.957-0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:46:34.989-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:34.989-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:46:35.024-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:46:35.022-0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:46:35.058-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.116 seconds
+[2025-07-17T12:47:06.016-0500] {processor.py:161} INFO - Started process (PID=13927) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:47:06.018-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-07-17T12:47:06.020-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.020-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:47:06.026-0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:47:06.061-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.060-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:06.082-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:06.082-0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:47:06.102-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2025-07-17T12:47:36.795-0500] {processor.py:161} INFO - Started process (PID=14033) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:47:36.796-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-07-17T12:47:36.798-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.797-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:47:36.805-0500] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-07-17T12:47:36.848-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.848-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-17T12:47:36.876-0500] {logging_mixin.py:188} INFO - [2025-07-17T12:47:36.875-0500] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-07-16 00:00:00+00:00, run_after=2025-07-17 00:00:00+00:00
+[2025-07-17T12:47:36.906-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.117 seconds

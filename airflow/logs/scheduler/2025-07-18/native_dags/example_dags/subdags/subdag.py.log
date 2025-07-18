@@ -1,0 +1,30 @@
+[2025-07-18T11:49:20.517-0500] {processor.py:161} INFO - Started process (PID=883) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:49:20.518-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-07-18T11:49:20.519-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:20.519-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:49:20.520-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:49:20.534-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-07-18T11:49:51.858-0500] {processor.py:161} INFO - Started process (PID=1009) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:49:51.859-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-07-18T11:49:51.860-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:49:51.860-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:49:51.861-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:49:51.874-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2025-07-18T11:50:22.057-0500] {processor.py:161} INFO - Started process (PID=1136) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:50:22.058-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-07-18T11:50:22.059-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:22.059-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:50:22.060-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:50:22.075-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-07-18T11:50:52.139-0500] {processor.py:161} INFO - Started process (PID=1240) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:50:52.140-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-07-18T11:50:52.141-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:50:52.140-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:50:52.142-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:50:52.155-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2025-07-18T11:51:22.192-0500] {processor.py:161} INFO - Started process (PID=1347) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:51:22.193-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-07-18T11:51:22.194-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:22.193-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:51:22.195-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:51:22.208-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2025-07-18T11:51:52.556-0500] {processor.py:161} INFO - Started process (PID=1454) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:51:52.557-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-07-18T11:51:52.558-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.558-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:51:52.559-0500] {processor.py:842} WARNING - No viable dags retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-07-18T11:51:52.572-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
