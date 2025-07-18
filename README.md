@@ -1,16 +1,17 @@
 # JobTrak – Real-Time Job Postings Pipeline
 
-JobTrak is a real-time data engineering pipeline that fetches job postings using the Adzuna API and stores them in PostgreSQL via Apache Airflow DAGs. This project demonstrates ETL orchestration, API integration, and workflow automation in a modern data stack.
+JobTrak is a real-time data engineering pipeline project that fetches job listings from the Adzuna API, stores them in PostgreSQL, and uses Apache Airflow for orchestration.
+
+---
 
 ## 🔧 Tech Stack
 
 - **Python 3.12**
-- **PostgreSQL**
-- **Apache Airflow**
-- **Adzuna Job Search API**
-- **Ubuntu (WSL 2)**
-- **psycopg2 (PostgreSQL driver)**
-- **Git & GitHub**
+- **Apache Airflow 2.8+**
+- **PostgreSQL 17**
+- **Adzuna API** (Job Postings)
+- **Ubuntu + WSL2**
+- **GitHub Actions (coming soon)**
 
 ## 📦 Features
 
@@ -20,17 +21,21 @@ JobTrak is a real-time data engineering pipeline that fetches job postings using
 - Logs task runs and supports retry logic
 - Can be extended to process, transform, and visualize job trends
 
-## 🏗️ Architecture
+## 📦 Project Structure
 
-+--------------+ +-------------+ +--------------+
-| Adzuna API + --> | Airflow DAG + --> | PostgreSQL DB |
-+--------------+ +-------------+ +--------------+
-|
-v
-+------------------+
-| Python ETL Code |
-+------------------+
-
+```bash
+jobtrak-stack/
+│
+├── airflow/                # Contains Airflow DAGs
+│   └── dags/
+│       ├── jobtrak_sample_dag.py
+│       └── jobtrak_fetch_jobs_dag.py ✅
+│
+├── scripts/                # Contains job fetcher logic
+│   └── fetch_jobs.py       # Fetches job data and inserts into PostgreSQL
+│
+├── venv/                   # Python virtual environment
+└── README.md               # Project documentation
 
 ## 🚀 How to Run
 
@@ -66,11 +71,13 @@ airflow scheduler
 airflow webserver --port 8080
 Visit http://localhost:8080 to access the Airflow UI.
 
+```
+
 ## 🛠️ Future Improvements
 
-Data transformation and cleaning DAG
-Dashboards with PowerBI or Streamlit
-Integration with resume/job matching ML models
+- Data transformation and cleaning DAG
+- Dashboards with PowerBI or Streamlit
+- Integration with resume/job matching ML models
 
 ##👨‍💻 Author
 Abhiram Atmuri
