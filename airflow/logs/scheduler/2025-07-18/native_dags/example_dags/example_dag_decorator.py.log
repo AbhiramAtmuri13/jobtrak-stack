@@ -40,3 +40,241 @@
 [2025-07-18T11:51:52.059-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.059-0500] {dag.py:3096} INFO - Sync 1 DAGs
 [2025-07-18T11:51:52.068-0500] {logging_mixin.py:188} INFO - [2025-07-18T11:51:52.068-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
 [2025-07-18T11:51:52.086-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.077 seconds
+[2025-07-18T12:32:16.389-0500] {processor.py:161} INFO - Started process (PID=1963) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:32:16.390-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:32:16.391-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:32:16.390-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:32:16.427-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:32:16.547-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:32:16.547-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:32:16.553-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:32:16.553-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:32:16.569-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.184 seconds
+[2025-07-18T12:32:46.778-0500] {processor.py:161} INFO - Started process (PID=2092) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:32:46.778-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:32:46.779-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:32:46.779-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:32:46.802-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:32:46.869-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:32:46.869-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:32:46.876-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:32:46.876-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:32:46.890-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.116 seconds
+[2025-07-18T12:33:17.013-0500] {processor.py:161} INFO - Started process (PID=2213) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:33:17.014-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:33:17.015-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:33:17.015-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:33:17.040-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:33:17.111-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:33:17.110-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:33:17.119-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:33:17.119-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:33:17.135-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.125 seconds
+[2025-07-18T12:33:47.327-0500] {processor.py:161} INFO - Started process (PID=2325) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:33:47.328-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:33:47.329-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:33:47.329-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:33:47.352-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:33:47.425-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:33:47.424-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:33:47.431-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:33:47.431-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:33:47.449-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.125 seconds
+[2025-07-18T12:34:17.765-0500] {processor.py:161} INFO - Started process (PID=2430) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:34:17.769-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:34:17.770-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:34:17.770-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:34:17.796-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:34:17.876-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:34:17.875-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:34:17.882-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:34:17.882-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:34:17.900-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.139 seconds
+[2025-07-18T12:34:48.178-0500] {processor.py:161} INFO - Started process (PID=2539) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:34:48.178-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:34:48.179-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:34:48.179-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:34:48.201-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:34:48.280-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:34:48.280-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:34:48.286-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:34:48.286-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:34:48.307-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.134 seconds
+[2025-07-18T12:35:19.302-0500] {processor.py:161} INFO - Started process (PID=2648) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:35:19.303-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:35:19.304-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:35:19.304-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:35:19.329-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:35:19.402-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:35:19.402-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:35:19.409-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:35:19.409-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:35:19.426-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.128 seconds
+[2025-07-18T12:35:49.945-0500] {processor.py:161} INFO - Started process (PID=2754) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:35:49.945-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:35:49.946-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:35:49.946-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:35:49.968-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:35:50.045-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:35:50.044-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:35:50.052-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:35:50.052-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:35:50.068-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.127 seconds
+[2025-07-18T12:36:20.672-0500] {processor.py:161} INFO - Started process (PID=2861) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:36:20.674-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:36:20.675-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:36:20.675-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:36:20.701-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:36:20.772-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:36:20.772-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:36:20.780-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:36:20.780-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:36:20.885-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.217 seconds
+[2025-07-18T12:36:51.021-0500] {processor.py:161} INFO - Started process (PID=2981) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:36:51.021-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:36:51.022-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:36:51.022-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:36:51.045-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:36:51.112-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:36:51.112-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:36:51.118-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:36:51.118-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:36:51.132-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.115 seconds
+[2025-07-18T12:37:22.357-0500] {processor.py:161} INFO - Started process (PID=3195) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:37:22.360-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:37:22.361-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:37:22.361-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:37:22.385-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:37:22.453-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:37:22.453-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:37:22.460-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:37:22.460-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:37:22.477-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.124 seconds
+[2025-07-18T12:37:52.620-0500] {processor.py:161} INFO - Started process (PID=3301) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:37:52.621-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:37:52.622-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:37:52.622-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:37:52.644-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:37:52.719-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:37:52.719-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:37:52.726-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:37:52.725-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:37:52.739-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.126 seconds
+[2025-07-18T12:38:23.019-0500] {processor.py:161} INFO - Started process (PID=3408) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:38:23.020-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:38:23.021-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:38:23.021-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:38:23.043-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:38:23.112-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:38:23.112-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:38:23.192-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:38:23.192-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:38:23.207-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.192 seconds
+[2025-07-18T12:38:53.455-0500] {processor.py:161} INFO - Started process (PID=3517) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:38:53.457-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:38:53.458-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:38:53.458-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:38:53.480-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:38:53.552-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:38:53.552-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:38:53.560-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:38:53.560-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:38:53.657-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2025-07-18T12:39:23.729-0500] {processor.py:161} INFO - Started process (PID=3627) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:39:23.730-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:39:23.731-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:39:23.730-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:39:23.756-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:39:23.821-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:39:23.821-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:39:23.828-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:39:23.828-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:39:23.847-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.125 seconds
+[2025-07-18T12:39:53.886-0500] {processor.py:161} INFO - Started process (PID=3734) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:39:53.887-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:39:53.887-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:39:53.887-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:39:53.909-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:39:53.975-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:39:53.975-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:39:53.982-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:39:53.982-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:39:53.995-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.112 seconds
+[2025-07-18T12:40:32.212-0500] {processor.py:161} INFO - Started process (PID=3921) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:40:32.213-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:40:32.214-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:40:32.214-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:40:32.254-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:40:32.341-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:40:32.341-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:40:32.350-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:40:32.349-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:40:32.365-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.157 seconds
+[2025-07-18T12:41:02.763-0500] {processor.py:161} INFO - Started process (PID=4044) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:41:02.764-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:41:02.765-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:41:02.764-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:41:02.785-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:41:02.849-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:41:02.848-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:41:02.855-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:41:02.854-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:41:02.872-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2025-07-18T12:41:33.363-0500] {processor.py:161} INFO - Started process (PID=4209) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:41:33.365-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:41:33.366-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:41:33.365-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:41:33.398-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:41:33.465-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:41:33.465-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:41:33.473-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:41:33.472-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:41:33.487-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.135 seconds
+[2025-07-18T12:42:03.848-0500] {processor.py:161} INFO - Started process (PID=4317) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:42:03.850-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:42:03.852-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:42:03.852-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:42:03.884-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:42:03.973-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:42:03.973-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:42:03.981-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:42:03.981-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:42:03.999-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.158 seconds
+[2025-07-18T12:42:34.239-0500] {processor.py:161} INFO - Started process (PID=4425) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:42:34.241-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:42:34.242-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:42:34.242-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:42:34.267-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:42:34.335-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:42:34.335-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:42:34.342-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:42:34.342-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:42:34.357-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.122 seconds
+[2025-07-18T12:43:04.538-0500] {processor.py:161} INFO - Started process (PID=4534) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:43:04.540-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:43:04.542-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:43:04.542-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:43:04.569-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:43:04.639-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:43:04.639-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:43:04.645-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:43:04.645-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:43:04.660-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.126 seconds
+[2025-07-18T12:43:35.047-0500] {processor.py:161} INFO - Started process (PID=4642) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:43:35.048-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:43:35.049-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:43:35.049-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:43:35.071-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:43:35.141-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:43:35.141-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:43:35.148-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:43:35.148-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:43:35.166-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.124 seconds
+[2025-07-18T12:44:05.771-0500] {processor.py:161} INFO - Started process (PID=4752) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:44:05.773-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:44:05.774-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:44:05.773-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:44:05.795-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:44:05.913-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:44:05.913-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:44:05.921-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:44:05.921-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:44:06.016-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.249 seconds
+[2025-07-18T12:44:36.620-0500] {processor.py:161} INFO - Started process (PID=4861) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:44:36.621-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:44:36.622-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:44:36.622-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:44:36.645-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:44:36.711-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:44:36.711-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:44:36.718-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:44:36.718-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:44:36.805-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.189 seconds
+[2025-07-18T12:45:08.253-0500] {processor.py:161} INFO - Started process (PID=4972) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:45:08.254-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:45:08.255-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:45:08.255-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:45:08.278-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:45:08.345-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:45:08.345-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:45:08.351-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:45:08.351-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:45:08.365-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.116 seconds
+[2025-07-18T12:45:38.834-0500] {processor.py:161} INFO - Started process (PID=5079) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:45:38.836-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:45:38.837-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:45:38.837-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:45:38.858-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:45:38.969-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:45:38.968-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:45:38.975-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:45:38.975-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:45:38.992-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.161 seconds
+[2025-07-18T12:46:09.344-0500] {processor.py:161} INFO - Started process (PID=5187) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:46:09.345-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:46:09.347-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:46:09.346-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:46:09.370-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:46:09.441-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:46:09.441-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:46:09.448-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:46:09.448-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:46:09.464-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.125 seconds
+[2025-07-18T12:46:40.186-0500] {processor.py:161} INFO - Started process (PID=5297) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:46:40.187-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:46:40.188-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:46:40.188-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:46:40.209-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:46:40.282-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:46:40.282-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:46:40.362-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:46:40.361-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:46:40.375-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.193 seconds
+[2025-07-18T12:47:10.820-0500] {processor.py:161} INFO - Started process (PID=5405) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:47:10.822-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:47:10.823-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:47:10.823-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:47:10.846-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:47:10.910-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:47:10.909-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:47:10.915-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:47:10.915-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:47:11.002-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.185 seconds
+[2025-07-18T12:47:41.385-0500] {processor.py:161} INFO - Started process (PID=5514) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:47:41.387-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:47:41.388-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:47:41.388-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:47:41.410-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:47:41.471-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:47:41.471-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:47:41.477-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:47:41.477-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:47:41.492-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.111 seconds
+[2025-07-18T12:48:12.218-0500] {processor.py:161} INFO - Started process (PID=5695) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:48:12.219-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:48:12.221-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:48:12.220-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:48:12.245-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:48:12.318-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:48:12.318-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:48:12.324-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:48:12.324-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:48:12.342-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.130 seconds
+[2025-07-18T12:48:42.828-0500] {processor.py:161} INFO - Started process (PID=5804) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:48:42.830-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:48:42.831-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:48:42.831-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:48:42.854-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:48:42.988-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:48:42.988-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:48:42.993-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:48:42.993-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:48:43.009-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.184 seconds
+[2025-07-18T12:49:13.467-0500] {processor.py:161} INFO - Started process (PID=5912) to work on /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:49:13.469-0500] {processor.py:830} INFO - Processing file /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-07-18T12:49:13.470-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:49:13.470-0500] {dagbag.py:545} INFO - Filling up the DagBag from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:49:13.496-0500] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-07-18T12:49:13.639-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:49:13.639-0500] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-18T12:49:13.645-0500] {logging_mixin.py:188} INFO - [2025-07-18T12:49:13.645-0500] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-07-18T12:49:13.659-0500] {processor.py:183} INFO - Processing /home/abhiram/jobtrak-stack/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.196 seconds
